@@ -1,0 +1,20 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "description": "Challenge: Blog API",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "blog",
+    "api"
+  ],
+  "author": "JMC",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "uuid": "^3.0.1"
+  }
+}
